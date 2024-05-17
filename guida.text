@@ -1,0 +1,7 @@
+GUIDA
+copiare env file
+rinominarla in .env
+mandare nel terminal composer install
+genero la app key con php artisan key:generate
+lancio npm install
+lancio i server: php artisan server , npm run dev
